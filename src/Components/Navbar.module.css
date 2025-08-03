@@ -39,5 +39,9 @@
   font-weight: 600;
   border-bottom: 2px solid #007bff;
 }
-
+@media (max-width: 600px) {
+  .navLinks {
+    gap: 0.5rem;
+  }
+}
 
