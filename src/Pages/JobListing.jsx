@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { useSearchParams, Link } from "react-router-dom";
-import styles from "./JobListing.module.css";
+import styles from "./Joblisting.module.css";
 import { fetchJobs } from "../Services/api";
 import Search from "../Components/Search";
 import Filters from "../Components/Filters";
